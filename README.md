@@ -1,6 +1,6 @@
 # Greeting Webpage
 
-I made this project to practise:
+I made this project to practice:
 
 * How to change the css stlye using JS
 * Date object
